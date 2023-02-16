@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.1.3.0-UFT_14
+Project("") = "synchronization_demo", "synchronization_demo\Test.tsp", "6A1846EE-8448-4795-9A34-76B7F59F3CDA"
+	ProjectSection(ProjectMetadata) = HP.UFT.ProjectSystem.Dynamic.ProjectMetadata
+		PathInformation = C:\Users\SHOBIB\Documents\Unified Functional Testing\synchronization_demo\Test.tsp
+		Keyword = QTP
+		OpenAsReadOnly = False
+		BaselineId = 
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		6A1846EE-8448-4795-9A34-76B7F59F3CDA.Debug|Any CPU.Build.0 = Debug|Any CPU
+		6A1846EE-8448-4795-9A34-76B7F59F3CDA.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		6A1846EE-8448-4795-9A34-76B7F59F3CDA.Release|Any CPU.Build.0 = Release|Any CPU
+		6A1846EE-8448-4795-9A34-76B7F59F3CDA.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
